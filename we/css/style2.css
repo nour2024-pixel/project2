@@ -1,0 +1,11 @@
+.test{
+    width: 600px;
+    height:600px;
+    border: 5px solid red;
+    background-image: url(pexels-felixmittermeier-1146134.jpg), url(rose-flower-fire-burning-dark-3495x5029-464.jpeg);
+   
+    background-size: 100px 120px;
+    background-position: top left , bottom right;
+    background-repeat: no-repeat;
+    
+}
